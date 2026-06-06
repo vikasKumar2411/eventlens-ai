@@ -1,0 +1,6 @@
+qdrant-client
+sentence-transformers
+python-dotenv
+pydantic
+langgraph
+langchain-corepydantic-settings
