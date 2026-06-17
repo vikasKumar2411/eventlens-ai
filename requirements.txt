@@ -4,3 +4,4 @@ python-dotenv
 pydantic
 langgraph
 langchain-corepydantic-settings
+streamlit==1.58.0
