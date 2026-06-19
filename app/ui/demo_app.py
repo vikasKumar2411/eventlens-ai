@@ -4,7 +4,6 @@ from typing import Any, Dict, List
 
 import streamlit as st
 
-st.write("✅ EventLens demo_app.py is running")
 
 DATA_PATH = (
     Path(__file__).resolve().parents[1]
